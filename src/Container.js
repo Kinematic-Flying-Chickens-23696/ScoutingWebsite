@@ -58,7 +58,7 @@ class Container extends React.Component {
     var sendData = data[1]
     data = data[0]
 
-    const eventID = '2025CASCC';
+    const eventID = '2025Comp1';
 
     if (sendData) {
       let validMatch = true;
@@ -272,7 +272,7 @@ class Container extends React.Component {
           Scouting Guidelines
         </a>
         <h1 className="title">
-          PATRIBOTS SCOUTING
+          KFC SCOUTING
         </h1>
 
         <div className='identification-container'>

@@ -1,2 +1,2 @@
 # ScoutingWebsite
-A website made with React that streamlines scouting for the 2024 season
+A frontend scouting site to gather data for the Kinematic Flying Chickens.

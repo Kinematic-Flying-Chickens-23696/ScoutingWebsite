@@ -3,7 +3,7 @@ const Dotenv = require('dotenv-webpack');
 module.exports = {
     webpack: {
         plugins: [
-            new Dotenv()
+            new Dotenv({path: './.env'}),
         ],
     },
 };
